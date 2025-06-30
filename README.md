@@ -34,11 +34,3 @@ The model supports 20 languages including:
 - Predicts and displays the **full language name**
 - Simple and clean UI with background image
 
----
-
-## 📦 Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/kpoovarasan/LANGUAGE_DETECTOR.git
-   cd LANGUAGE_DETECTOR
